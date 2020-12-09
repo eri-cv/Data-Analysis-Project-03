@@ -2,7 +2,7 @@
 Amusement Parks in Europe
 
 
-Goals:¶
+Goals:
 1) Get basic information on top 10 Amusement parks in Europe (python - in jupyter notebook)
 
 2) Create a database (MS SQL Server)
